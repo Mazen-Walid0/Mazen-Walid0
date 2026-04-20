@@ -17,13 +17,13 @@
 - 👨‍💻 I build modern, responsive, and scalable web apps  
 - ⚡ Passionate about UI/UX and performance optimization  
 - 📚 Always learning new tools and best practices in frontend development  
-- 💬 Ask me about JavaScript, React, Redux, or UI development  
+- 💬 Contact me regarding user interface development
 
 ---
 
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank"> -->
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 
