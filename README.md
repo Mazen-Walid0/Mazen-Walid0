@@ -31,6 +31,13 @@
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a>
 
+<a href="https://wa.me/201068787495" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="tel:+201270902257" target="_blank">
+  <img src="https://img.shields.io/badge/-Call%20Me-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
 ---
 
 ## 🛠 Tech Stack (Frontend Developer)
