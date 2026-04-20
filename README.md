@@ -23,9 +23,9 @@
 
 ## 🔗 Connect with Me
 
-<!-- <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank"> -->
+<!-- <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/>
@@ -65,5 +65,5 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazen-Walid0&show_icons=true&theme=default" />
 </p>
