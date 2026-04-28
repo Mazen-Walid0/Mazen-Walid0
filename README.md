@@ -26,8 +26,11 @@
 <!-- <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a> -->
+<a href="https://www.linkedin.com/in/mazen-walid-43aa91406/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+<a href="https://t.me/Mazen_Walid" target="_blank">
   <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white"/>
 </a>
 
