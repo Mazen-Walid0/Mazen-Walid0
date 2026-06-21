@@ -103,19 +103,4 @@ fun_fact: Always exploring new tools in the frontend world
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mazen-Walid0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=f75c7e&icon_color=f75c7e" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen-Walid0&theme=radical&hide_border=true&background=0D1117&ring=f75c7e&fire=f75c7e" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazen-Walid0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=f75c7e" width="48%"/>
-
-</div>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:f75c7e&height=100&section=footer" width="100%"/>
